@@ -5,11 +5,12 @@ Everything Was Codded In C# [.NET 5](https://dotnet.microsoft.com/download/dotne
 <br />
 <br />
 Credits For Everything Used In This Application Below:
-[CUE4Parse](https://github.com/FabianFG/CUE4Parse) Used To Export Uassets
-[Fortnite-Api](https://dash.fortnite-api.com/) Used To Grab Latest Aes Key & Cosmetic Icons
-[Siticone](https://www.siticoneframework.com/) Used For Drag Bar & Shadow Form
-[DiscordRichPresence](https://github.com/Lachee/discord-rpc-csharp) Used To Display Game Activity On Discord
-[Galaxy Api](https://dash.fortnite-api.com/) Stores All Our Cosmetic Swaps & Patch Notes & Ect
+<br />
+[CUE4Parse](https://github.com/FabianFG/CUE4Parse) Used To Export Uassets <br />
+[Fortnite-Api](https://dash.fortnite-api.com/) Used To Grab Latest Aes Key & Cosmetic Icons <br />
+[Siticone](https://www.siticoneframework.com/) Used For Drag Bar & Shadow Form <br />
+[DiscordRichPresence](https://github.com/Lachee/discord-rpc-csharp) Used To Display Game Activity On Discord <br />
+[Galaxy Api](https://dash.fortnite-api.com/) Stores All Our Cosmetic Swaps & Patch Notes & Ect <br />
 <br />
 <br />
 *Copyright Galaxy Swapper v2 If Any Of This Code Is Used You Must Credit. Thanks
