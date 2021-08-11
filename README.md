@@ -10,7 +10,7 @@ Credits For Everything Used In This Application Below:
 [Fortnite-Api](https://dash.fortnite-api.com/) Used To Grab Latest Aes Key & Cosmetic Icons <br />
 [Siticone](https://www.siticoneframework.com/) Used For Drag Bar & Shadow Form <br />
 [DiscordRichPresence](https://github.com/Lachee/discord-rpc-csharp) Used To Display Game Activity On Discord <br />
-[Galaxy Api](https://github.com/CodeWslt/Galaxy-Swapper-v2/tree/main/Source) Stores All Our Cosmetic Swaps & Patch Notes & Ect <br />
+[Galaxy Api](https://github.com/CodeWslt/Galaxy-Swapper-v2/tree/main/Backend) Stores All Our Cosmetic Swaps & Patch Notes & Ect <br />
 <br/>
 *Copyright Galaxy Swapper v2 If Any Of This Code Is Used You Must Credit. Thanks
 
