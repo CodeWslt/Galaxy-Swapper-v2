@@ -1,1 +1,16 @@
-null
+{
+    "Lans":[
+        {
+            "Lan":"English",
+            "CodeName":"EN"
+        },
+        {
+            "Lan":"German",
+            "CodeName":"GER"
+        }
+    ],
+    "KeyInvalid":{
+        "EN":"The Key You Have Inputed Is Incorrect. Check For Spaces?",
+        "GER":"Der von Ihnen eingegebene Schlüssel ist falsch. Nach Leerzeichen suchen?"
+    }
+}
