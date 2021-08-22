@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy Swapper v2 Installer", "Galaxy Swapper v2 Installer.csproj", "{255CD895-CF9C-4D10-AF0D-CAA15ACD25B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04CD5FDD-D9A6-4AAD-A121-F2A8655C79C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CD5FDD-D9A6-4AAD-A121-F2A8655C79C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CD5FDD-D9A6-4AAD-A121-F2A8655C79C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CD5FDD-D9A6-4AAD-A121-F2A8655C79C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{255CD895-CF9C-4D10-AF0D-CAA15ACD25B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255CD895-CF9C-4D10-AF0D-CAA15ACD25B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255CD895-CF9C-4D10-AF0D-CAA15ACD25B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255CD895-CF9C-4D10-AF0D-CAA15ACD25B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E51F19C-00E2-4119-BE9D-D37A75AC3BE8}
+	EndGlobalSection
+EndGlobal
