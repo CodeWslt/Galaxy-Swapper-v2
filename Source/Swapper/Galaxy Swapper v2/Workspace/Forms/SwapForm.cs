@@ -398,10 +398,6 @@ namespace Galaxy_Swapper_v2.Workspace.Forms
         {
             return Encoding.Default.GetBytes(str);
         }
-        public static byte[] SingleString(this byte[] array)
-        {
-            return Encoding.Default.GetBytes(Encoding.Default.GetString(array).Split('.', StringSplitOptions.None)[0]);
-        }
         public static string InvalidScript(string Assethex)
         {
             string[] Scripts = new string[]
