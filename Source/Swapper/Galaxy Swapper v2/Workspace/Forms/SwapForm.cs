@@ -378,20 +378,6 @@ namespace Galaxy_Swapper_v2.Workspace.Forms
         }
         private void CloseBox_Click(object sender, EventArgs e) => this.Close();
     }
-    public class ZlibBlock
-    {
-        public long BlockStart { get; set; }
-        public long BlockEnd { get; set; }
-        public byte[] decompressed { get; set; }
-        public byte[] compressed { get; set; }
-        public ZlibBlock(long start, long end, byte[] decomp, byte[] comp)
-        {
-            BlockStart = start;
-            BlockEnd = end;
-            decompressed = decomp;
-            compressed = comp;
-        }
-    }
     public static class SwapUtils
     {
         public static byte[] StringToBytes(this string str)
