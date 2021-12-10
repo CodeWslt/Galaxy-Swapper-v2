@@ -1,5 +1,9 @@
 # Galaxy-Swapper-v2
 <br>
+WE HAVE MOVED! https://github.com/GalaxySwapperOfficial/Galaxy-Swapper-v2
+
+
+
 
 Download Galaxy Swapper v2 Latest Version [here](https://linkvertise.com/98253/GalaxySwapperv2OfficialDownload) <br />
 Everything Was Codded In C# [.NET 5](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-5.0.8-windows-x64-installer) <br />
